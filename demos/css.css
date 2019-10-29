@@ -1,0 +1,20 @@
+.someClass {
+    display: flex;
+    flex-direction: column;
+    color: rgba(red, green, blue, alpha)
+}
+
+#someID {
+    font-family: "Menlo", "monospace";
+}
+
+body {
+    height: 100vh;
+    background-color: #FFFFFF;
+}
+
+@media screen and (max-width: 480px) {
+    body {
+        font-size: 1rem;
+    }
+}
