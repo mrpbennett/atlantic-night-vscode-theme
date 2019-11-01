@@ -16,7 +16,8 @@
         "Blue Theme"
     ],
     "scripts": {
-        "publish": "vsce publish minor"
+        "publish-minor": "vsce publish minor",
+        "publish-major": "vsce publish major"
     },
     "galleryBanner": {
         "color": "#000720",
