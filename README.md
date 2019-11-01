@@ -2,4 +2,7 @@
 
 WORK IN PROGRESS
 
-![alt text](imgs/atlantic-night-color-way.png)
+
+<p align="center>
+          <img src="https://raw.githubusercontent.com/mrpbennett/atlantic-night/master/imgs/atlantic-night-color-way.png">
+          </p>
