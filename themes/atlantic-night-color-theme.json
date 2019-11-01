@@ -175,7 +175,9 @@
 				"keyword.other.declaration-specifier",
 				"support.variable.object.process.js",
 				"storage.modifier.js",
-				"variable.other.property.js"
+				"variable.other.property.js",
+				"keyword.control.export.js",
+				"keyword.control.default.js"
 			],
 			"settings": {
 				"foreground": "#bf90d4"
