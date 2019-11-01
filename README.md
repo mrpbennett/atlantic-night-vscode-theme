@@ -1,4 +1,4 @@
-# Atlanitc Night
+# Atlanitc Night :new_moon_with_face: :whale:
 
 A Visual Studio Code theme inspired by the deep blues of the Atlantic. With coding at night in mind, the colour choices have been taking into consideration with accessibility in mind. All colours have been picked from [Color Safe](http://colorsafe.co) which empowers designers with beautiful and accessible colour palettes based on [WCAG Guidelines](http://webaim.org/blog/wcag-2-0-and-link-colors/) of text and background contrast ratios.
 
