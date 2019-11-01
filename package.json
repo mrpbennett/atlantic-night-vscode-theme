@@ -16,7 +16,7 @@
         "Blue Theme"
     ],
     "scripts": {
-        "publish": "vsce publish"
+        "publish": "vsce publish minor"
     },
     "engines": {
         "vscode": "^1.39.0"
