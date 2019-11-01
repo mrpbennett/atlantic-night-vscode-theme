@@ -18,6 +18,10 @@
     "scripts": {
         "publish": "vsce publish minor"
     },
+    "galleryBanner": {
+        "color": "#000720",
+        "theme": "dark"
+    },
     "engines": {
         "vscode": "^1.39.0"
     },
