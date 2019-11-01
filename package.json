@@ -15,6 +15,9 @@
         "Atlantic",
         "Blue Theme"
     ],
+    "scripts": {
+        "publish": "vsce publish"
+    },
     "engines": {
         "vscode": "^1.39.0"
     },
