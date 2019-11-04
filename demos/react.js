@@ -18,6 +18,10 @@ class App extends React.Component {
 		this.setState(calculate(this.state, buttonName));
 	};
 
+	someFunction = something => {
+		return something;
+	};
+
 	render() {
 		return (
 			<div className='component-app'>

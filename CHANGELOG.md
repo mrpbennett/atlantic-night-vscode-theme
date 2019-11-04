@@ -11,6 +11,15 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Theme icon
 - Credit to icon author in `README.md`
 
+### Fixes
+
+- Status bar color when in DeBug mode
+
+### Changes
+
+- Sidebar hover changes
+- Input fields background and foreground
+
 ## [01/11/2019]  - 1.0.1
 
 ### Added
