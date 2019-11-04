@@ -1,4 +1,4 @@
-# Atlanitc Night :new_moon_with_face: :whale:
+# Atlanitc Night
 
 A Visual Studio Code theme inspired by the deep blues of the Atlantic. With coding at night in mind, the colour choices have been taking into consideration with accessibility in mind. All colours have been picked from [Color Safe](http://colorsafe.co) which empowers designers with beautiful and accessible colour palettes based on [WCAG Guidelines](http://webaim.org/blog/wcag-2-0-and-link-colors/) of text and background contrast ratios.
 
@@ -35,3 +35,5 @@ The preview image is using [Bracket Pair Colorizer](https://marketplace.visualst
 This is my first attempt at creating a theme, so if you see something amiss, please feel free to [file an issue](https://github.com/mrpbennett/atlantic-night-vscode-theme/issues)! I'm sure there are things I missed.
 
 Any relevant changes for each version are documented in the changelog. Please update and check the changelog before filing any issues, as they may have already been taken care of.
+
+Icon made by [Freepik](https://www.flaticon.com/authors/freepik)
