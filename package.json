@@ -29,7 +29,7 @@
     "categories": [
         "Themes"
     ],
-    "icon": "./imgs/wave.png",
+    "icon": "wave.png",
     "contributes": {
         "themes": [
             {
