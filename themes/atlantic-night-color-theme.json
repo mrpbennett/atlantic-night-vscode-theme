@@ -6,68 +6,59 @@
 		"editor.foreground": "#dadfe1",
 		"editorLineNumber.foreground": "#5c6b80", // Main Secondary
 		"editorLineNumber.activeForeground": "#6ba9ff",
-
 		"editor.selectionBackground": "#396cb335",
 		"editor.wordHighlightBackground": "#396cb335",
-
 		"editor.lineHighlightBorder": "#000720",
-
 		// Gutter
 		"editorGutter.modifiedBackground": "#daa520",
 		"editorGutter.addedBackground": "#5ac95a",
 		"editorGutter.deletedBackground": "#f64747",
-
 		// Buttons
 		"button.background": "#3D3199",
 		"button.foreground": "#dadfe1",
 		"button.hoverBackground": "#995b31",
-
 		// Activity Bar
 		"activityBar.background": "#000720",
 		"activityBar.foreground": "#5D81B3",
 		"activityBarBadge.background": "#5D81B3",
 		"activityBarBadge.foreground": "#000720",
-
 		// Sidebar
 		"sideBar.background": "#000720",
 		"sideBar.foreground": "#5c6b80",
 		"sideBar.border": "#1b213b",
-		"sideBar.dropBackground": "#ff0000",
 		"sideBarTitle.foreground": "#5c6b80",
 		"sideBarSectionHeader.background": "#000720",
 		"sideBarSectionHeader.foreground": "#5c6b80",
 		"sideBarSectionHeader.border": "#5c6b80",
-
 		// Lists and trees
 		"list.hoverBackground": "#396cb335",
 		"list.hoverForeground": "#dadfe1",
-
 		"list.focusBackground": "#396cb335",
 		"list.focusForeground": "#5c6b80",
-
 		"list.activeSelectionBackground": "#1c2341",
 		"list.activeSelectionForeground": "#dadfe1",
-
+		"list.inactiveSelectionBackground": "#1c2341",
+		"list.inactiveSelectionForeground": "#dadfe1",
+		// Input control
+		"input.background": "#396cb335",
+		"input.foreground": "#dadfe1",
 		// MiniMap
 		"minimap.findMatchHighlight": "#396cb335",
 		"minimap.selectionHighlight": "#396cb335",
-
 		// Editor Groups & Tabs
 		"editorGroup.border": "#232b4e",
 		"editorGroup.dropBackground": "#000720",
-		"editorGroupHeader.noTabsBackground": "#ff0000",
 		"editorGroupHeader.tabsBackground": "#000720",
-
 		"tab.activeBackground": "#1c2341",
 		"tab.activeForeground": "#8c9db4",
 		"tab.unfocusedActiveBackground": "#1a203b",
-
 		"tab.inactiveBackground": "#0e1224",
 		"tab.inactiveForeground": "#5c6b80",
-
-		// Meun Bar
+		// Status Bar
 		"statusBar.background": "#101425",
-		"statusBar.foreground": "#6287bb"
+		"statusBar.foreground": "#6287bb",
+		"statusBar.debuggingBackground": "#101425",
+		"statusBar.debuggingForeground": "#6287bb"
 	},
 	"tokenColors": [
 		// Blue
