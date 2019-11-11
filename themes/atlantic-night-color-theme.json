@@ -83,7 +83,8 @@
 				"meta.function-call.arguments.python",
 				"entity.other.inherited-class.js",
 				"storage.type.js",
-				"markup.underline.link.markdown"
+				"markup.underline.link.markdown",
+				"keyword.control.loop.js"
 			],
 			"settings": {
 				"foreground": "#6bb9f0"
@@ -116,7 +117,8 @@
 				"variable.parameter.function.language.python",
 				"meta.item-access.arguments.python",
 				"punctuation.definition.heading.markdown",
-				"heading"
+				"heading",
+				"entity.name.type.js"
 			],
 			"settings": {
 				"foreground": "#98fb98"
@@ -132,7 +134,8 @@
 				"keyword.operator.comparison",
 				"support.constant.media.css",
 				"entity.other.attribute-name.id.css",
-				"punctuation.definition.list.begin.markdown"
+				"punctuation.definition.list.begin.markdown",
+				"keyword.other.important.css"
 			],
 			"settings": {
 				"foreground": "#FC6399"
@@ -168,7 +171,8 @@
 				"storage.modifier.js",
 				"variable.other.property.js",
 				"keyword.control.export.js",
-				"keyword.control.default.js"
+				"keyword.control.default.js",
+				"support.class.builtin.js"
 			],
 			"settings": {
 				"foreground": "#bf90d4"

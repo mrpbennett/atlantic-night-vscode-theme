@@ -4,7 +4,17 @@ All notable changes to the "mrpbennett-vscode" extension will be documented in t
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [04/11/12 - 1.6.0
+## [11/11/12] - 1.9.0
+
+### Added
+
+- Some adjustments to CSS and JS colouring
+
+### Changed
+
+- downgraded the engine to allow wider use
+
+## [04/11/12] - 1.6.0
 
 ###  Added
 
@@ -30,3 +40,4 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [Unreleased]
 
 - Initial release
+- CSS `!important` color added

@@ -24,7 +24,7 @@
         "theme": "dark"
     },
     "engines": {
-        "vscode": "^1.39.0"
+        "vscode": "^1.30.0"
     },
     "categories": [
         "Themes"
@@ -36,6 +36,11 @@
                 "label": "Atlantic Night",
                 "uiTheme": "vs-dark",
                 "path": "./themes/atlantic-night-color-theme.json"
+            },
+            {
+                "label": "Atlantic Day",
+                "uiTheme": "vs",
+                "path": "./themes/atlantic-day-color-theme.json"
             }
         ]
     }

@@ -6,6 +6,7 @@
 
 #someID {
     font-family: "Menlo", "monospace";
+    font-size: 1rem !important;
 }
 
 body {
