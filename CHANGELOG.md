@@ -4,7 +4,7 @@ All notable changes to the "mrpbennett-vscode" extension will be documented in t
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [11/11/12] - 1.9.0
+## [11/11/12] - 1.10.0
 
 ### Added
 
