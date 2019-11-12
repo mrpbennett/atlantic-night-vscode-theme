@@ -37,11 +37,11 @@
                 "uiTheme": "vs-dark",
                 "path": "./themes/atlantic-night-color-theme.json"
             },
-            {
-                "label": "Atlantic Day",
-                "uiTheme": "vs",
-                "path": "./themes/atlantic-day-color-theme.json"
-            }
+            // {
+            //     "label": "Atlantic Day",
+            //     "uiTheme": "vs",
+            //     "path": "./themes/atlantic-day-color-theme.json"
+            // }
         ]
     }
 }
