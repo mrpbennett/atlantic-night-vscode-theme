@@ -118,7 +118,8 @@
 				"meta.item-access.arguments.python",
 				"punctuation.definition.heading.markdown",
 				"heading",
-				"entity.name.type.js"
+				"entity.name.type.js",
+				"meta.function-call.generic.python"
 			],
 			"settings": {
 				"foreground": "#98fb98"
