@@ -84,7 +84,8 @@
 				"entity.other.inherited-class.js",
 				"storage.type.js",
 				"markup.underline.link.markdown",
-				"keyword.control.loop.js"
+				"keyword.control.loop.js",
+				"meta.function-call.generic.python"
 			],
 			"settings": {
 				"foreground": "#6bb9f0"
@@ -118,8 +119,7 @@
 				"meta.item-access.arguments.python",
 				"punctuation.definition.heading.markdown",
 				"heading",
-				"entity.name.type.js",
-				"meta.function-call.generic.python"
+				"entity.name.type.js"
 			],
 			"settings": {
 				"foreground": "#98fb98"
