@@ -119,7 +119,8 @@
 				"meta.item-access.arguments.python",
 				"punctuation.definition.heading.markdown",
 				"heading",
-				"entity.name.type.js"
+				"entity.name.type.js",
+				"keyword.control.at-rule.css"
 			],
 			"settings": {
 				"foreground": "#98fb98"
