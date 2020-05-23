@@ -120,7 +120,6 @@
 				"punctuation.definition.heading.markdown",
 				"heading",
 				"entity.name.type.js",
-				"keyword.control.at-rule.css"
 			],
 			"settings": {
 				"foreground": "#98fb98"
@@ -174,7 +173,9 @@
 				"variable.other.property.js",
 				"keyword.control.export.js",
 				"keyword.control.default.js",
-				"support.class.builtin.js"
+				"support.class.builtin.js",
+				"keyword.control.at-rule.css",
+				"keyword.control.at-rule.apply"
 			],
 			"settings": {
 				"foreground": "#bf90d4"

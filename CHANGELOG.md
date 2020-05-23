@@ -4,6 +4,16 @@ All notable changes to the "mrpbennett-vscode" extension will be documented in t
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [23/05/20 - 1.17.0]
+
+## Added
+
+- Color for `keyword.control.at-rule.apply`
+
+## Changed
+
+- Change color for `keyword.control.at-rule.css`
+
 ## [23/05/20 - 1.16.0]
 
 ## Added
