@@ -136,7 +136,11 @@
 				"support.constant.media.css",
 				"entity.other.attribute-name.id.css",
 				"punctuation.definition.list.begin.markdown",
-				"keyword.other.important.css"
+				"keyword.other.important.css",
+				"keyword.other.fn.rust",
+				"keyword.other.rust",
+				"storage.class.std.rust",
+				"storage.modifier.mut.rust"
 			],
 			"settings": {
 				"foreground": "#FC6399"
