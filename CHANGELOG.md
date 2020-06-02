@@ -4,11 +4,11 @@ All notable changes to the "mrpbennett-vscode" extension will be documented in t
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [02/06/20 - 1.80.0]
+## [02/06/20 - 1.18.0]
 
 ## Added
 
-- Atlantic Night now supports Rust Lang
+- Atlantic Night now supports Rust & SQL languages
 
 ## [23/05/20 - 1.17.0]
 

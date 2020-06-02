@@ -85,7 +85,11 @@
 				"storage.type.js",
 				"markup.underline.link.markdown",
 				"keyword.control.loop.js",
-				"meta.function-call.generic.python"
+				"meta.function-call.generic.python",
+				"keyword.other.sql",
+				"keyword.other.DML.sql",
+				"keyword.other.LUW.sql",
+				"keyword.other.create.sql"
 			],
 			"settings": {
 				"foreground": "#6bb9f0"
@@ -120,6 +124,8 @@
 				"punctuation.definition.heading.markdown",
 				"heading",
 				"entity.name.type.js",
+				"support.function.conversion.sql",
+				"support.function.datetime.sql"
 			],
 			"settings": {
 				"foreground": "#98fb98"
@@ -140,7 +146,7 @@
 				"keyword.other.fn.rust",
 				"keyword.other.rust",
 				"storage.class.std.rust",
-				"storage.modifier.mut.rust"
+				"storage.modifier.mut.rust",
 			],
 			"settings": {
 				"foreground": "#FC6399"
