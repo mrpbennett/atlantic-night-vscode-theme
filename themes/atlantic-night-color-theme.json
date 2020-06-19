@@ -89,7 +89,8 @@
 				"keyword.other.sql",
 				"keyword.other.DML.sql",
 				"keyword.other.LUW.sql",
-				"keyword.other.create.sql"
+				"keyword.other.create.sql",
+				"support.function.math.js"
 			],
 			"settings": {
 				"foreground": "#6bb9f0"
@@ -101,7 +102,8 @@
 			"scope": [
 				"constant",
 				"markup.quote.markdown",
-				"string.other.link.title.markdown"
+				"string.other.link.title.markdown",
+
 			],
 			"settings": {
 				"foreground": "#FFA07A"
@@ -185,7 +187,8 @@
 				"keyword.control.default.js",
 				"support.class.builtin.js",
 				"keyword.control.at-rule.css",
-				"keyword.control.at-rule.apply"
+				"keyword.control.at-rule.apply",
+				"punctuation.accessor.js"
 			],
 			"settings": {
 				"foreground": "#bf90d4"
@@ -210,7 +213,8 @@
 				"source.json",
 				"source.swift",
 				"text.html.derivative",
-				"variable.other.readwrite"
+				"variable.other.readwrite",
+				"variable.other.readwrite.js"
 			],
 			"settings": {
 				"foreground": "#D6DEEB"
@@ -227,6 +231,7 @@
 				"keyword.control.conditional",
 				"meta.object-literal.key.js",
 				"support.class.console.js",
+				"support.constant.math.js",
 				"support.function.js",
 				"keyword.control.import",
 				"keyword.control.from"
