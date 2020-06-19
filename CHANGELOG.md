@@ -4,7 +4,7 @@ All notable changes to the "mrpbennett-vscode" extension will be documented in t
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [19/06/20 - 1.20.0]
+## [19/06/20 - 1.21.0]
 
 ## Added
 
@@ -13,6 +13,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## Changed
 
 -   Change some colouring for JavaScript
+-   statusbar.noFolder - now fixed.
 
 ## [02/06/20 - 1.18.0]
 
