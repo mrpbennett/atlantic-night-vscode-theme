@@ -5,10 +5,17 @@ function render() {
 	btn.innerText = `Count: ${count}`;
 }
 
-let random = () => {
+const someObject = {
+	name: 'Joe Bloggs',
+	age: 99,
+	someFunc: function (input) {
+		console.log(input)
+	}
+}
+
+let random = (num) => {
 	return Math.floor(Math.random() * (40 - 10 + 1))
 }
-console.log(random())
 
 btn.addEventListener('click', () => {
 	// count from 1 to 10

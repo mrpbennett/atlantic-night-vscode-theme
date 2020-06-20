@@ -128,7 +128,8 @@
                 "heading",
                 "entity.name.type.js",
                 "support.function.conversion.sql",
-                "support.function.datetime.sql"
+                "support.function.datetime.sql",
+
             ],
             "settings": {
                 "foreground": "#98fb98"
@@ -165,7 +166,8 @@
                 "variable.other.constant.property.js",
                 "variable.other.readwrite.js",
                 "variable.language.this.js",
-                "punctuation.definition.bold.markdown"
+                "punctuation.definition.bold.markdown",
+
             ],
             "settings": {
                 "foreground": "#f5d76e"
@@ -178,7 +180,7 @@
                 "storage.type",
                 "storage.type.class",
                 "storage.type.function",
-                "variable.other.object",
+                "variable.other.object.js",
                 "keyword.control.flow",
                 "keyword.other.declaration-specifier",
                 "support.variable.object.process.js",
@@ -236,7 +238,9 @@
                 "support.constant.math.js",
                 "support.function.js",
                 "keyword.control.import",
-                "keyword.control.from"
+                "keyword.control.from",
+                "variable.other.object.property.js",
+                "variable.other.property.js"
             ],
             "settings": {
                 "foreground": "#638BB3"
@@ -253,7 +257,7 @@
                 "support.class.component.js",
                 "entity.name.type.class.js",
                 "entity.name.type.module.js",
-                "variable.other.readwrite.alias"
+                "variable.other.readwrite.alias",
             ],
             "settings": {
                 "foreground": "#2ECCB0"
