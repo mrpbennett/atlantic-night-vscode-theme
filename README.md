@@ -1,5 +1,11 @@
 # Atlanitc Night
 
+
+![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/mrpbennett.atlantic-night)
+![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/mrpbennett.atlantic-night)
+![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/mrpbennett.atlantic-night)
+
+
 A Visual Studio Code theme inspired by the deep blues of the Atlantic. With coding at night in mind, the colour choices have been taking into consideration with accessibility in mind. All colours have been picked from [Color Safe](http://colorsafe.co) which empowers designers with beautiful and accessible colour palettes based on [WCAG Guidelines](http://webaim.org/blog/wcag-2-0-and-link-colors/) of text and background contrast ratios.
 
 I took this theme on after being inspired by Sarah Drasner's [creating a vscode theme](https://css-tricks.com/creating-a-vs-code-theme/) article.
