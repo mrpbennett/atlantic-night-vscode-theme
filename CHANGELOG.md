@@ -6,34 +6,34 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [19/06/20 - 1.21.0]
 
-## Added
+### Added
 
 -   Added colouring for Math. in JS
 
-## Changed
+### Changed
 
 -   Change some colouring for JavaScript
 -   statusbar.noFolder - now fixed.
 
 ## [02/06/20 - 1.18.0]
 
-## Added
+### Added
 
 -   Atlantic Night now supports Rust & SQL languages
 
 ## [23/05/20 - 1.17.0]
 
-## Added
+### Added
 
 -   Color for `keyword.control.at-rule.apply`
 
-## Changed
+### Changed
 
 -   Change color for `keyword.control.at-rule.css`
 
 ## [23/05/20 - 1.16.0]
 
-## Added
+### Added
 
 -   Added coloring for `keyword.control.at-rule.css`
 
