@@ -35,7 +35,12 @@
             {
                 "label": "Atlantic Night",
                 "uiTheme": "vs-dark",
-                "path": "./themes/atlantic-night-color-theme.json"
+                "path": "./themes/atlantic-night-main-theme.json"
+            },
+            {
+                "label": "Atlantic Night - OilSlick",
+                "uiTheme": "vs-dark",
+                "path": "./themes/atlantic-night-oil-theme.json"
             }
         ]
     }

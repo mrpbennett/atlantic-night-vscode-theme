@@ -2,7 +2,7 @@
     "name": "mrpbennett-vscode",
     "type": "dark",
     "colors": {
-        "editor.background": "#000720", // Mail Editor Color
+        "editor.background": "#000720", // Main Editor Color
         "editor.foreground": "#dadfe1",
         "editorLineNumber.foreground": "#5c6b80", // Main Secondary
         "editorLineNumber.activeForeground": "#6ba9ff",
@@ -69,132 +69,69 @@
             "scope": [
                 "entity.other.attribute-name",
                 "entity.name.function",
+                "support.function.any-method",
+                // CSS
                 "entity.name.tag.css",
-                "variable.parameter.function.language.special.self.python",
-                "variable.parameter.function.language.special.cls.python",
-                "variable.language.special.self.python",
-                "string.quoted.double.json",
+                // JS
+                "entity.other.inherited-class.js",
+                "keyword.control.loop.js",
+                "support.function.console.js",
+                "support.function.math.js",
+                "support.variable.property.process.js",
+                "storage.type.js",
+                "variable.other.constant.js",
+                // JSON
                 "punctuation.support.type.property-name.begin.json",
                 "punctuation.support.type.property-name.end.json",
-                "support.function.builtin.python",
-                "support.function.any-method",
-                "keyword.control.loop.swift",
-                "variable.other.constant.js",
-                "support.function.console.js",
-                "support.variable.property.process.js",
-                "meta.function-call.arguments.python",
-                "entity.other.inherited-class.js",
-                "storage.type.js",
+                "string.quoted.double.json",
+                // Markdown
                 "markup.underline.link.markdown",
-                "keyword.control.loop.js",
+                // Python
                 "meta.function-call.generic.python",
+                "meta.function-call.arguments.python",
+                "variable.parameter.function.language.special.self.python",
+                "variable.parameter.function.language.special.cls.python",
+                "variable.language.special.self.python",   
+                "support.function.builtin.python",
+                // Swift
+                "keyword.control.loop.swift",
+                // SQL
                 "keyword.other.sql",
                 "keyword.other.DML.sql",
                 "keyword.other.LUW.sql",
                 "keyword.other.create.sql",
-                "support.function.math.js"
             ],
             "settings": {
                 "foreground": "#6bb9f0"
-            }
-        },
-        // Peach
-        {
-            "name": "Peach #FFA07A",
-            "scope": [
-                "constant",
-                "markup.quote.markdown",
-                "string.other.link.title.markdown"
-            ],
-            "settings": {
-                "foreground": "#FFA07A"
             }
         },
         // Green
         {
             "name": "Green #98fb98",
             "scope": [
+                "heading",
                 "support.type",
                 "punctuation.definition.decorator",
+                // CSS
                 "keyword.control.at-rule.media.css",
                 "keyword.operator.logical.and.media.css",
                 "entity.other.attribute-name.class.css",
-                "variable.parameter.js",
-                "support.function.builtin.python",
-                "entity.name.function.decorator.python",
-                "variable.parameter.function.language.python",
-                "meta.item-access.arguments.python",
-                "punctuation.definition.heading.markdown",
-                "heading",
+                // JS
                 "entity.name.type.js",
+                "variable.parameter.js",
+                // Markdown
+                "punctuation.definition.heading.markdown",
+                // Python
+                "variable.parameter.function.language.python",
+                "support.function.builtin.python",
+                "meta.item-access.arguments.python",
+                "entity.name.function.decorator.python",
+                // SQL
                 "support.function.conversion.sql",
                 "support.function.datetime.sql",
-
             ],
             "settings": {
                 "foreground": "#98fb98"
-            }
-        },
-        // Pink
-        {
-            "name": "Pink #FC6399",
-            "scope": [
-                "keyword.operator",
-                "keyword.operator.assignment",
-                "keyword.operator.relational",
-                "keyword.operator.comparison",
-                "support.constant.media.css",
-                "entity.other.attribute-name.id.css",
-                "punctuation.definition.list.begin.markdown",
-                "keyword.other.important.css",
-                "keyword.other.fn.rust",
-                "keyword.other.rust",
-                "storage.class.std.rust",
-                "storage.modifier.mut.rust"
-            ],
-            "settings": {
-                "foreground": "#FC6399"
-            }
-        },
-        // Yellow
-        {
-            "name": "Yellow #f5d76e",
-            "scope": [
-                "entity.name.type.class.python",
-                "punctuation.section.class.begin.python",
-                "variable.other.property",
-                "variable.other.constant.property.js",
-                "variable.other.readwrite.js",
-                "variable.language.this.js",
-                "punctuation.definition.bold.markdown",
-
-            ],
-            "settings": {
-                "foreground": "#f5d76e"
-            }
-        },
-        // Purple
-        {
-            "name": "Purple #9370DB",
-            "scope": [
-                "storage.type",
-                "storage.type.class",
-                "storage.type.function",
-                "variable.other.object.js",
-                "keyword.control.flow",
-                "keyword.other.declaration-specifier",
-                "support.variable.object.process.js",
-                "storage.modifier.js",
-                "variable.other.property.js",
-                "keyword.control.export.js",
-                "keyword.control.default.js",
-                "support.class.builtin.js",
-                "keyword.control.at-rule.css",
-                "keyword.control.at-rule.apply",
-                "punctuation.accessor.js"
-            ],
-            "settings": {
-                "foreground": "#bf90d4"
             }
         },
         // Grey
@@ -228,40 +165,128 @@
         {
             "name": "Grey Blue #638BB3",
             "scope": [
+                "keyword.control.import",
+                "keyword.control.from",
+                "keyword.control.conditional",
                 "entity.name.tag",
                 "punctuation.definition.tag",
-                "keyword.control.import.python",
+                // CSS
                 "support.type.property-name.css",
-                "keyword.control.conditional",
+                // JS
                 "meta.object-literal.key.js",
                 "support.class.console.js",
                 "support.constant.math.js",
                 "support.function.js",
-                "keyword.control.import",
-                "keyword.control.from",
                 "variable.other.object.property.js",
-                "variable.other.property.js"
+                "variable.other.property.js",
+                // Python
+                "keyword.control.import.python",
             ],
             "settings": {
                 "foreground": "#638BB3"
+            }
+        },
+        // Peach
+        {
+            "name": "Peach #FFA07A",
+            "scope": [
+                "constant",
+                "markup.quote.markdown",
+                "string.other.link.title.markdown"
+            ],
+            "settings": {
+                "foreground": "#FFA07A"
+            }
+        },
+        
+        // Pink
+        {
+            "name": "Pink #FC6399",
+            "scope": [
+                "keyword.operator",
+                "keyword.operator.assignment",
+                "keyword.operator.relational",
+                "keyword.operator.comparison",
+                // CSS
+                "entity.other.attribute-name.id.css",
+                "support.constant.media.css",
+                "keyword.other.important.css",
+                // Markdown
+                "punctuation.definition.list.begin.markdown",
+                // Rust
+                "keyword.other.fn.rust",
+                "keyword.other.rust",
+                "storage.class.std.rust",
+                "storage.modifier.mut.rust"
+            ],
+            "settings": {
+                "foreground": "#FC6399"
+            }
+        },
+        // Purple
+        {
+            "name": "Purple #9370DB",
+            "scope": [
+                "storage.type",
+                "storage.type.class",
+                "storage.type.function",
+                "keyword.control.flow",
+                "keyword.other.declaration-specifier",
+                "keyword.control.at-rule.apply",
+                // CSS
+                "keyword.control.at-rule.css",
+                // JS
+                "variable.other.object.js",
+                "support.variable.object.process.js",
+                "storage.modifier.js",
+                "variable.other.property.js",
+                "keyword.control.export.js",
+                "keyword.control.default.js",
+                "support.class.builtin.js",
+                "punctuation.accessor.js",
+            ],
+            "settings": {
+                "foreground": "#bf90d4"
             }
         },
         // Turquoise
         {
             "name": "Turquoise #2ECCB0",
             "scope": [
-                "support.constant.property-value.css",
                 "string.quoted",
                 "string.template",
-                "support.type.property-name.json",
+                "variable.other.readwrite.alias",
+                // CSS
+                "support.constant.property-value.css",
+                // JS
                 "support.class.component.js",
                 "entity.name.type.class.js",
                 "entity.name.type.module.js",
-                "variable.other.readwrite.alias",
+                // JSON
+                "support.type.property-name.json",
             ],
             "settings": {
                 "foreground": "#2ECCB0"
             }
-        }
+        },
+        // Yellow
+        {
+            "name": "Yellow #f5d76e",
+            "scope": [
+                "variable.other.property",
+                // JS
+                "variable.other.constant.property.js",
+                "variable.other.readwrite.js",
+                "variable.language.this.js",
+                // Markdown
+                "punctuation.definition.bold.markdown",
+                // Python
+                "entity.name.type.class.python",
+                "punctuation.section.class.begin.python",
+            ],
+            "settings": {
+                "foreground": "#f5d76e"
+            }
+        },
     ]
 }
