@@ -128,7 +128,7 @@
                 "entity.name.function.decorator.python",
                 // SQL
                 "support.function.conversion.sql",
-                "support.function.datetime.sql",
+                "support.function.datetime.sql"
             ],
             "settings": {
                 "foreground": "#98fb98"
@@ -137,7 +137,7 @@
         // Grey
         {
             "name": "Grey #6B8080",
-            "scope": ["comment"],
+            "scope": ["comment", "string.quoted.docstring.multi.python"],
             "settings": {
                 "foreground": "#6B8080"
             }
@@ -180,7 +180,7 @@
                 "variable.other.object.property.js",
                 "variable.other.property.js",
                 // Python
-                "keyword.control.import.python",
+                "keyword.control.import.python"
             ],
             "settings": {
                 "foreground": "#638BB3"
@@ -264,6 +264,7 @@
                 "entity.name.type.module.js",
                 // JSON
                 "support.type.property-name.json",
+                "string.quoted.single.python"
             ],
             "settings": {
                 "foreground": "#2ECCB0"

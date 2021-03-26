@@ -2,13 +2,13 @@
     "name": "mrpbennett-vscode",
     "type": "dark",
     "colors": {
-        "editor.background": "#000000", // Main Editor Color
+        "editor.background": "#00030D", // Main Editor Color
         "editor.foreground": "#dadfe1",
         "editorLineNumber.foreground": "#5c6b80", // Main Secondary
         "editorLineNumber.activeForeground": "#6ba9ff",
         "editor.selectionBackground": "#396cb335",
         "editor.wordHighlightBackground": "#396cb335",
-        "editor.lineHighlightBorder": "#000000",
+        "editor.lineHighlightBorder": "#00030D",
         // Gutter
         "editorGutter.modifiedBackground": "#daa520",
         "editorGutter.addedBackground": "#5ac95a",
@@ -18,16 +18,16 @@
         "button.foreground": "#dadfe1",
         "button.hoverBackground": "#995b31",
         // Activity Bar
-        "activityBar.background": "#000000",
+        "activityBar.background": "#00030D",
         "activityBar.foreground": "#5D81B3",
         "activityBarBadge.background": "#5D81B3",
-        "activityBarBadge.foreground": "#000000",
+        "activityBarBadge.foreground": "#00030D",
         // Sidebar
-        "sideBar.background": "#000000",
+        "sideBar.background": "#00030D",
         "sideBar.foreground": "#5c6b80",
         "sideBar.border": "#1b213b",
         "sideBarTitle.foreground": "#5c6b80",
-        "sideBarSectionHeader.background": "#000000",
+        "sideBarSectionHeader.background": "#00030D",
         "sideBarSectionHeader.foreground": "#5c6b80",
         "sideBarSectionHeader.border": "#5c6b80",
         // Lists and trees
@@ -47,8 +47,8 @@
         "minimap.selectionHighlight": "#396cb335",
         // Editor Groups & Tabs
         "editorGroup.border": "#232b4e",
-        "editorGroup.dropBackground": "#000000",
-        "editorGroupHeader.tabsBackground": "#000000",
+        "editorGroup.dropBackground": "#00030D",
+        "editorGroupHeader.tabsBackground": "#00030D",
         "tab.activeBackground": "#1c2341",
         "tab.activeForeground": "#8c9db4",
         "tab.unfocusedActiveBackground": "#1a203b",
@@ -102,7 +102,7 @@
                 "keyword.other.create.sql",
             ],
             "settings": {
-                "foreground": "#6bb9f0"
+                "foreground": "#69D4FF"
             }
         },
         // Green
@@ -128,7 +128,7 @@
                 "entity.name.function.decorator.python",
                 // SQL
                 "support.function.conversion.sql",
-                "support.function.datetime.sql",
+                "support.function.datetime.sql"
             ],
             "settings": {
                 "foreground": "#98fb98"
@@ -137,7 +137,7 @@
         // Grey
         {
             "name": "Grey #6B8080",
-            "scope": ["comment"],
+            "scope": ["comment","string.quoted.docstring.multi.python"],
             "settings": {
                 "foreground": "#6B8080"
             }
@@ -155,7 +155,8 @@
                 "text.html.derivative",
                 "variable.other.readwrite",
                 "variable.other.readwrite.js",
-                "variable.other.constant.js"
+                "variable.other.constant.js",
+                "keyword.operator.comparison.python"
             ],
             "settings": {
                 "foreground": "#D6DEEB"
@@ -181,9 +182,10 @@
                 "variable.other.property.js",
                 // Python
                 "keyword.control.import.python",
+                
             ],
             "settings": {
-                "foreground": "#638BB3"
+                "foreground": "#5B80A6"
             }
         },
         // Peach
@@ -192,10 +194,11 @@
             "scope": [
                 "constant",
                 "markup.quote.markdown",
-                "string.other.link.title.markdown"
+                "string.other.link.title.markdown",
+                "constant.numeric.dec.python"
             ],
             "settings": {
-                "foreground": "#FFA07A"
+                "foreground": "#FFA52E"
             }
         },
         
@@ -220,7 +223,7 @@
                 "storage.modifier.mut.rust"
             ],
             "settings": {
-                "foreground": "#FC6399"
+                "foreground": "#FF75AC"
             }
         },
         // Purple
@@ -246,7 +249,7 @@
                 "punctuation.accessor.js",
             ],
             "settings": {
-                "foreground": "#bf90d4"
+                "foreground": "#C774FC"
             }
         },
         // Turquoise
@@ -264,9 +267,10 @@
                 "entity.name.type.module.js",
                 // JSON
                 "support.type.property-name.json",
+                "string.quoted.single.python"
             ],
             "settings": {
-                "foreground": "#2ECCB0"
+                "foreground": "#41E89A"
             }
         },
         // Yellow
@@ -282,10 +286,10 @@
                 "punctuation.definition.bold.markdown",
                 // Python
                 "entity.name.type.class.python",
-                "punctuation.section.class.begin.python",
+                "punctuation.section.class.begin.python"
             ],
             "settings": {
-                "foreground": "#f5d76e"
+                "foreground": "#DEB459"
             }
         },
     ]
