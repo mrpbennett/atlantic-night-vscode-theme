@@ -2,13 +2,13 @@
     "name": "mrpbennett-vscode",
     "type": "dark",
     "colors": {
-        "editor.background": "#00030D", // Main Editor Color
+        "editor.background": "#00010A", // Main Editor Color
         "editor.foreground": "#dadfe1",
         "editorLineNumber.foreground": "#5c6b80", // Main Secondary
         "editorLineNumber.activeForeground": "#6ba9ff",
         "editor.selectionBackground": "#396cb335",
         "editor.wordHighlightBackground": "#396cb335",
-        "editor.lineHighlightBorder": "#00030D",
+        "editor.lineHighlightBorder": "#00010A",
         // Gutter
         "editorGutter.modifiedBackground": "#daa520",
         "editorGutter.addedBackground": "#5ac95a",
@@ -18,16 +18,16 @@
         "button.foreground": "#dadfe1",
         "button.hoverBackground": "#995b31",
         // Activity Bar
-        "activityBar.background": "#00030D",
+        "activityBar.background": "#00010A",
         "activityBar.foreground": "#5D81B3",
         "activityBarBadge.background": "#5D81B3",
-        "activityBarBadge.foreground": "#00030D",
+        "activityBarBadge.foreground": "#00010A",
         // Sidebar
-        "sideBar.background": "#00030D",
+        "sideBar.background": "#00010A",
         "sideBar.foreground": "#5c6b80",
         "sideBar.border": "#1b213b",
         "sideBarTitle.foreground": "#5c6b80",
-        "sideBarSectionHeader.background": "#00030D",
+        "sideBarSectionHeader.background": "#00010A",
         "sideBarSectionHeader.foreground": "#5c6b80",
         "sideBarSectionHeader.border": "#5c6b80",
         // Lists and trees
@@ -47,8 +47,8 @@
         "minimap.selectionHighlight": "#396cb335",
         // Editor Groups & Tabs
         "editorGroup.border": "#232b4e",
-        "editorGroup.dropBackground": "#00030D",
-        "editorGroupHeader.tabsBackground": "#00030D",
+        "editorGroup.dropBackground": "#00010A",
+        "editorGroupHeader.tabsBackground": "#00010A",
         "tab.activeBackground": "#1c2341",
         "tab.activeForeground": "#8c9db4",
         "tab.unfocusedActiveBackground": "#1a203b",
@@ -102,7 +102,7 @@
                 "keyword.other.create.sql",
             ],
             "settings": {
-                "foreground": "#69D4FF"
+                "foreground": "#19b5fe"
             }
         },
         // Green
@@ -131,7 +131,7 @@
                 "support.function.datetime.sql"
             ],
             "settings": {
-                "foreground": "#98fb98"
+                "foreground": "#2ECC32"
             }
         },
         // Grey
@@ -188,7 +188,7 @@
                 "foreground": "#5B80A6"
             }
         },
-        // Peach
+        // Orange
         {
             "name": "Peach #FFA07A",
             "scope": [
@@ -198,7 +198,7 @@
                 "constant.numeric.dec.python"
             ],
             "settings": {
-                "foreground": "#FFA52E"
+                "foreground": "#ff8c00"
             }
         },
         
@@ -249,7 +249,7 @@
                 "punctuation.accessor.js",
             ],
             "settings": {
-                "foreground": "#C774FC"
+                "foreground": "#FF00FF"
             }
         },
         // Turquoise
@@ -270,7 +270,7 @@
                 "string.quoted.single.python"
             ],
             "settings": {
-                "foreground": "#41E89A"
+                "foreground": "#81cfe0"
             }
         },
         // Yellow
