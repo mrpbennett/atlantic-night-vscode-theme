@@ -33,6 +33,7 @@ The font in the preview image is Menlo, at a size of 14px and a tabSize of 4.
 "editor.fontSize": 14,
 "editor.tabSize": 4,
 ```
+Icons in the preview are from [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
 The preview image is using [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer), a really cool extension that highlights matching brackets. This can help reduce unwanted errors.
 
