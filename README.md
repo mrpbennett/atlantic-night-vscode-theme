@@ -14,6 +14,11 @@ I took this theme on after being inspired by Sarah Drasner's [creating a vscode 
 ![First Screen](imgs/first-screen.png)
 ![langs](imgs/langs.png)
 
+# NEW Theme!! Atlantic Night - Abyss
+![abyss](imgs/abyss-react.png)
+
+Atlantic Night - **Abyss** is a new high contrast theme, this is still a work in progress. Therefore please do log an [issue](https://github.com/mrpbennett/atlantic-night-vscode-theme/issues/new) if you feel there is a way to improve the new theme, colors too bright, more supported languages log those and ill get back to them.
+
 # Installation
 
 1.  Install [Visual Studio Code](https://code.visualstudio.com/)
@@ -39,7 +44,7 @@ The preview image is using [Bracket Pair Colorizer](https://marketplace.visualst
 
 ## Misc
 
-This is my first attempt at creating a theme, so if you see something amiss, please feel free to [file an issue](https://github.com/mrpbennett/atlantic-night-vscode-theme/issues)! I'm sure there are things I missed.
+This is my first attempt at creating a theme, so if you see something amiss, please feel free to [file an issue](https://github.com/mrpbennett/atlantic-night-vscode-theme/issues/new)! I'm sure there are things I missed.
 
 Any relevant changes for each version are documented in the changelog. Please update and check the changelog before filing any issues, as they may have already been taken care of.
 
