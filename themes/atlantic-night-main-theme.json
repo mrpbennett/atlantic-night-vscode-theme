@@ -128,7 +128,8 @@
                 "entity.name.function.decorator.python",
                 // SQL
                 "support.function.conversion.sql",
-                "support.function.datetime.sql"
+                "support.function.datetime.sql",
+                "variable.parameter.ts"
             ],
             "settings": {
                 "foreground": "#98fb98"
@@ -180,7 +181,8 @@
                 "variable.other.object.property.js",
                 "variable.other.property.js",
                 // Python
-                "keyword.control.import.python"
+                "keyword.control.import.python",
+                "meta.object-literal.key.ts"
             ],
             "settings": {
                 "foreground": "#638BB3"
@@ -207,6 +209,7 @@
                 "keyword.operator.assignment",
                 "keyword.operator.relational",
                 "keyword.operator.comparison",
+                "keyword.other.alias.sql",
                 // CSS
                 "entity.other.attribute-name.id.css",
                 "support.constant.media.css",
@@ -244,6 +247,8 @@
                 "keyword.control.default.js",
                 "support.class.builtin.js",
                 "punctuation.accessor.js",
+                "keyword.control.export.ts",
+                "keyword.control.default.ts"
             ],
             "settings": {
                 "foreground": "#bf90d4"
@@ -264,7 +269,9 @@
                 "entity.name.type.module.js",
                 // JSON
                 "support.type.property-name.json",
-                "string.quoted.single.python"
+                "string.quoted.single.python",
+                "entity.name.type.ts",
+                "entity.name.type.class.ts"
             ],
             "settings": {
                 "foreground": "#2ECCB0"
@@ -284,6 +291,7 @@
                 // Python
                 "entity.name.type.class.python",
                 "punctuation.section.class.begin.python",
+                "variable.other.readwrite.ts"
             ],
             "settings": {
                 "foreground": "#f5d76e"
