@@ -129,7 +129,9 @@
                 // SQL
                 "support.function.conversion.sql",
                 "support.function.datetime.sql",
-                "variable.parameter.ts"
+                // TypeScript
+                "variable.parameter.ts",
+                "variable.parameter.tsx"
             ],
             "settings": {
                 "foreground": "#2ECC32"
@@ -183,7 +185,9 @@
                 "variable.other.property.js",
                 // Python
                 "keyword.control.import.python",
-                "meta.object-literal.key.ts"
+                // TypeScript
+                "meta.object-literal.key.ts",
+                "meta.object-literal.key.tsx"
             ],
             "settings": {
                 "foreground": "#5B80A6"
@@ -249,8 +253,11 @@
                 "keyword.control.default.js",
                 "support.class.builtin.js",
                 "punctuation.accessor.js",
+                // TypeScript
                 "keyword.control.export.ts",
-                "keyword.control.default.ts"
+                "keyword.control.default.ts",
+                "keyword.control.export.tsx",
+                "keyword.control.default.tsx"
             ],
             "settings": {
                 "foreground": "#FF00FF"
@@ -272,8 +279,11 @@
                 // JSON
                 "support.type.property-name.json",
                 "string.quoted.single.python",
+                // TypeScript
                 "entity.name.type.ts",
-                "entity.name.type.class.ts"
+                "entity.name.type.class.ts",
+                "entity.name.type.tsx",
+                "entity.name.type.class.tsx"
             ],
             "settings": {
                 "foreground": "#81cfe0"
@@ -293,7 +303,9 @@
                 // Python
                 "entity.name.type.class.python",
                 "punctuation.section.class.begin.python",
-                "variable.other.readwrite.ts"
+                // TypeScript
+                "variable.other.readwrite.ts",
+                "variable.other.readwrite.tsx"
             ],
             "settings": {
                 "foreground": "#DEB459"

@@ -99,7 +99,7 @@
                 "keyword.other.sql",
                 "keyword.other.DML.sql",
                 "keyword.other.LUW.sql",
-                "keyword.other.create.sql",
+                "keyword.other.create.sql"
             ],
             "settings": {
                 "foreground": "#6bb9f0"
@@ -129,7 +129,9 @@
                 // SQL
                 "support.function.conversion.sql",
                 "support.function.datetime.sql",
-                "variable.parameter.ts"
+                // TypeScript
+                "variable.parameter.ts",
+                "variable.parameter.tsx"
             ],
             "settings": {
                 "foreground": "#98fb98"
@@ -182,7 +184,9 @@
                 "variable.other.property.js",
                 // Python
                 "keyword.control.import.python",
-                "meta.object-literal.key.ts"
+                // TypeScript
+                "meta.object-literal.key.ts",
+                "meta.object-literal.key.tsx"
             ],
             "settings": {
                 "foreground": "#638BB3"
@@ -247,8 +251,11 @@
                 "keyword.control.default.js",
                 "support.class.builtin.js",
                 "punctuation.accessor.js",
+                // TypeScript
                 "keyword.control.export.ts",
-                "keyword.control.default.ts"
+                "keyword.control.default.ts",
+                "keyword.control.export.tsx",
+                "keyword.control.default.tsx"
             ],
             "settings": {
                 "foreground": "#bf90d4"
@@ -270,8 +277,11 @@
                 // JSON
                 "support.type.property-name.json",
                 "string.quoted.single.python",
+                // TypeScript
                 "entity.name.type.ts",
-                "entity.name.type.class.ts"
+                "entity.name.type.class.ts",
+                "entity.name.type.tsx",
+                "entity.name.type.class.tsx"
             ],
             "settings": {
                 "foreground": "#2ECCB0"
@@ -291,11 +301,13 @@
                 // Python
                 "entity.name.type.class.python",
                 "punctuation.section.class.begin.python",
-                "variable.other.readwrite.ts"
+                // TypeScript
+                "variable.other.readwrite.ts",
+                "variable.other.readwrite.tsx"
             ],
             "settings": {
                 "foreground": "#f5d76e"
             }
-        },
+        }
     ]
 }
