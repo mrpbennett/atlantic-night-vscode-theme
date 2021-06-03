@@ -159,7 +159,7 @@
                 "variable.other.readwrite",
                 "variable.other.readwrite.js",
                 "variable.other.constant.js",
-                "keyword.operator.comparison.python"
+                "keyword.operator.comparison.python",
             ],
             "settings": {
                 "foreground": "#D6DEEB"
@@ -187,7 +187,9 @@
                 "keyword.control.import.python",
                 // TypeScript
                 "meta.object-literal.key.ts",
-                "meta.object-literal.key.tsx"
+                "meta.object-literal.key.tsx",
+                // GraphQL
+                "variable.graphql"
             ],
             "settings": {
                 "foreground": "#5B80A6"
@@ -257,7 +259,9 @@
                 "keyword.control.export.ts",
                 "keyword.control.default.ts",
                 "keyword.control.export.tsx",
-                "keyword.control.default.tsx"
+                "keyword.control.default.tsx",
+                // GraphQL
+                "variable.parameter.graphql"
             ],
             "settings": {
                 "foreground": "#FF00FF"

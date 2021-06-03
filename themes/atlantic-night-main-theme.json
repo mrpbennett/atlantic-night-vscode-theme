@@ -158,7 +158,8 @@
                 "text.html.derivative",
                 "variable.other.readwrite",
                 "variable.other.readwrite.js",
-                "variable.other.constant.js"
+                "variable.other.constant.js",
+                
             ],
             "settings": {
                 "foreground": "#D6DEEB"
@@ -186,7 +187,9 @@
                 "keyword.control.import.python",
                 // TypeScript
                 "meta.object-literal.key.ts",
-                "meta.object-literal.key.tsx"
+                "meta.object-literal.key.tsx",
+                // GraphQL
+                "variable.graphql"
             ],
             "settings": {
                 "foreground": "#638BB3"
@@ -255,7 +258,9 @@
                 "keyword.control.export.ts",
                 "keyword.control.default.ts",
                 "keyword.control.export.tsx",
-                "keyword.control.default.tsx"
+                "keyword.control.default.tsx",
+                // GraphQL
+                "variable.parameter.graphql"
             ],
             "settings": {
                 "foreground": "#bf90d4"
